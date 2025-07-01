@@ -1,4 +1,4 @@
-include "WGraph.h"
+#include "WGraph.h"
 #include <string>
 #include <sstream>
 #include <fstream>
